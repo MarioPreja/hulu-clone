@@ -13,7 +13,7 @@ function Header() {
                         <HeaderItem title='search' Icon={SearchIcon}/>
                         <HeaderItem title='Account' Icon={UserIcon}/>
                    </div>
-                   <Image className='object-contain cursor-pointer' src='https://links.papareact.com/ua6' width={200} height={100}/>
+                   <Image alt='logo' className='object-contain cursor-pointer' src='https://links.papareact.com/ua6' width={200} height={100}/>
         </header>
     )
 }
