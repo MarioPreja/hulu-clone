@@ -1,4 +1,4 @@
-const API_KEY = process.env.API_KEY;
+const API_KEY = '911871914722b20e52cf7fb8e5ea5488'
 
 export default {
   fetchTrending: {
